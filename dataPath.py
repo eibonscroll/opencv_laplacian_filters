@@ -1,1 +1,1 @@
-DATA_PATH="../resource/lib/publicdata/"
+DATA_PATH="./publicdata/"
